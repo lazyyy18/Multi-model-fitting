@@ -5,7 +5,8 @@ Run `main.m`.
 
 ## Contact
 
-If you have any questions, please contact us via email:
+If you have any questions, please email us via
 
-- Pei-Ju Lin: `M11315071@mail.ntust.edu.tw`
-- Kuo-Liang Chung: `klchung01@gmail.com`
+Pei-Ju Lin: <M11315071@mail.ntust.edu.tw>
+
+Kuo-Liang Chung: <klchung01@gmail.com>
